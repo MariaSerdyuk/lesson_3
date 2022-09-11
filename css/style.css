@@ -1,0 +1,42 @@
+div.list{
+	color:darkblue;
+}
+.text.waterfall{
+	color: darkblue;
+}
+.the-main{
+	color: blueviolet;
+}
+#ayun{
+	color: darkturquoise;
+}
+.block p{
+	color:cornflowerblue
+}
+.bulleted-list *{
+	color: blueviolet;
+}
+.main-fall .point{
+	color:darkgoldenrod
+}
+.stream p{
+	color: darkgreen;
+}
+#saar{
+	color: darkslategrey;
+}
+.video + a{
+	color: darkorange;
+}
+.video a{
+	color:goldenrod;
+}
+.main-fall > p{
+	color: crimson;
+}
+header{
+	color:hotpink
+}
+.the-main{
+	color:darkslategrey;
+}
